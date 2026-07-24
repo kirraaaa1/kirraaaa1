@@ -30,24 +30,7 @@ My current goal is to become an Embedded Software Engineer and gain practical ex
 - ARM Cortex-M architecture
 - Embedded C programming
 - Makefile and linker script
-- LCD communication using I2C
 - Smart Parking System using STM32
-
-## Projects
-
-### STM32 Bare-Metal Learning
-
-A collection of STM32 projects written using register-level Embedded C without relying heavily on HAL libraries.
-
-Topics include:
-
-- GPIO output and LED blinking
-- Push-button input
-- External interrupts
-- Timers
-- UART communication
-- I2C LCD
-- Smart parking system
 
 ## Contact
 
